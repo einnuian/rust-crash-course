@@ -18,7 +18,7 @@ fn main() {
     let name1: String = String::from("John");
     //let name2 = name1;
     //name2 take over the stack and heap of name 1
-    //name1 practically no longer exist
+    //name1 practically no longer exists
     println!("Hello, {}", name1);
     //println!("Hello, {}", name2);
 
